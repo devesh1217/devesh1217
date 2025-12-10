@@ -1,25 +1,140 @@
-<h1 align="center">Namste 🙏🏻, I'm Devesh Mehta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- Profile Header -->
+<div align="center">
+  
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=8FD3FF&height=250&section=header&text=नमस्ते%20👋%20I'm%20Devesh%20Mehta&fontSize=32&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CSE%20Undergrad%20@%20SVNIT&descAlignY=55&animation=fadeIn&fontColor=ffffff)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devesh1217&label=Profile%20views&color=0e75b6&style=flat" alt="devesh1217" /> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=devesh1217&label=Profile%20Views&color=22c55e&style=flat-square" alt="profile views" />
+    <img src="https://img.shields.io/github/followers/devesh1217?label=Followers&style=flat-square&color=0ea5e9" alt="followers" />
+    <img src="https://img.shields.io/github/stars/devesh1217?affiliations=OWNER&style=flat-square&color=f97316" alt="stars" />
+    <img src="https://img.shields.io/badge/GitHub%20Pro-%F0%9F%92%AA-6d28d9?style=flat-square" alt="github pro" />
+  </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devesh1217" alt="devesh1217" /></a> </p>
+  <p>
+    <a href="https://devesh-mehta.vercel.app?utm_source=github_profile">
+      <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/devesh1217">
+      <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/devesh_1217">
+      <img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:devesh1217@yahoo.com">
+      <img src="https://img.shields.io/badge/Email-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devesh1217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh1217" height="30" width="40" /></a>
-<a href="https://instagram.com/devesh_1217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devesh_1217" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devesh1217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devesh1217" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devesh1217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devesh1217" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@devesh1217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@devesh1217" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/devesh1217/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devesh1217/profile" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devesh1217&show_icons=true&locale=en&layout=compact" alt="devesh1217" /></p>
+## 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devesh1217&show_icons=true&locale=en" alt="devesh1217" /></p>
+- 🎓 B.Tech in **Computer Science & Engineering @ SVNIT, Surat**
+- 💼 Passionate **full-stack developer** working across web, mobile & ML-powered projects  
+- 🧠 Interests: **Web Apps, NLP, Cybersecurity, Dev Tools, UI/UX**
+- 🎵 I relax with **music** & love playing the **tabla**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh1217&" alt="devesh1217" /></p>
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+
+<!-- GitHub profile trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=devesh1217&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="github trophies" />
+
+<br/>
+
+<!-- Fun achievement-style badges -->
+<img src="https://img.shields.io/badge/Achievement-Quickdraw%20x2-16a34a?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Achievement-YOLO!-f97316?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Commit%20Style-Consistent%20&%20Clean-3b82f6?style=flat-square" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats – The Dev Dashboard
+
+<div align="center">
+
+<a href="https://github.com/devesh1217">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=devesh1217&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Devesh's GitHub stats" />
+</a>
+
+<a href="https://github.com/devesh1217">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=devesh1217&theme=radical&hide_border=true" alt="Devesh's GitHub streak" />
+</a>
+
+<a href="https://github.com/devesh1217">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devesh1217&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="Top languages" />
+</a>
+
+</div>
+
+---
+
+## 🧰 Tech Skills – My Toolkit
+
+<div align="center">
+
+### 🚀 Core Stack
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nextjs,nodejs,express,html,css,tailwind,spring,androidstudio,redux" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+### 🧪 Tools & Others
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,aws,gcp" />
+
+</div>
+
+> Also familiar with: **Redux, Chart.js, Pandas, scikit-learn, Postman, Arduino** and a growing list of web dev utilities.
+
+---
+
+## 🚀 Highlighted Projects
+
+> Some of the things I’ve been building recently 👇
+
+### 🌐 Nexus (SVNIT Official Portal)
+- **Repo:** [`Nexus`](https://github.com/devesh1217/Nexus)  
+- Official portal for Nexus, the departmental cell of **DoCSE & DoAI, SVNIT**  
+- Modern web experience for event & information management
+
+---
+
+### 💸 Arthalekha – Expense Manager App
+- **Repo:** [`Arthalekha-App`](https://github.com/devesh1217/Arthalekha-App)  
+- Mobile expense manager built with **React Native**  
+- Focused on clean UI, categorised tracking & usability
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m always up for:
+
+- 🚀 Building **full-stack products** (Next.js / React / Node.js / MongoDB)
+- 🧠 Experimenting with **AI / ML / GenAI** for real-world use cases
+- 🛡️ Creating **security-focused tools** and utilitarian apps
+- 👨‍🎓 Tech + education + productivity ideas
+
+<div align="center">
+
+**Got an idea or a project in mind?**  
+💬 Reach out on [LinkedIn](https://www.linkedin.com/in/devesh1217) or drop a mail at **devesh1217dm@gmail.com**  
+
+<br/>
+
+> _“Code. Learn. Refactor. Repeat.”_
+
+  
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=8FD3FF&height=130&section=footer)
+
+</div>
