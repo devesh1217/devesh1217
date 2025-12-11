@@ -94,8 +94,6 @@
 
 </div>
 
-> Also familiar with: **Redux, Chart.js, Pandas, scikit-learn, Postman, Arduino** and a growing list of web dev utilities.
-
 ---
 
 ## 🚀 Highlighted Projects
@@ -128,7 +126,7 @@ I’m always up for:
 <div align="center">
 
 **Got an idea or a project in mind?**  
-💬 Reach out on [LinkedIn](https://www.linkedin.com/in/devesh1217) or drop a mail at **devesh1217dm@gmail.com**  
+💬 Reach out on [LinkedIn](https://www.linkedin.com/in/devesh1217) or drop a mail at **devesh1217@yahoo.com**  
 
 <br/>
 
